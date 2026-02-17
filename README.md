@@ -1,4 +1,3 @@
-# GideonSaka.github.io
 <!DOCTYPE HTML>
 <!--
 	Read Only by HTML5 UP
@@ -20,7 +19,7 @@
 					<span class="image avatar"><img src="images/ChatGPT Image Sep 16, 2025, 10_30_23 PM.png" alt="" /></span>
 					<h1 id="logo"><a href="#">Gideon Saka</a></h1>
 					<p>Business Analyst<br />
-					Insurance & Finance Operations</p>
+				 Insurance & Finance Operations</p>
 				</header>
 				<nav id="nav">
 					<ul>
