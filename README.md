@@ -65,7 +65,7 @@ understand workflows, identify inefficiencies, and document structured process
 improvements using business analysis techniques..</p>
                                     <ul class="actions">
     <li>
-        <a href="assets/docs/Gideon_Saka_CV.pdf" class="button primary icon solid fa-file">View Resume 
+        <a href="assets/docs/Gideon_Saka_CV-2.pdf" class="button primary icon solid fa-file">View Resume 
         </a>
     </li>
 </ul>
